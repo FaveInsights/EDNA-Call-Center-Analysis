@@ -12,4 +12,4 @@ EDNA Call Center has put together a dataset around 100,000 rows for exploration.
 4.	How can customer experience be improved?
 5.	What other insights are necessary to be looked into based on the data provided that would promote efficiency?
 
-<p> Full report is available on [Medium] (https://www.medium.com/@favourbadakin/call-center-performance-analysis-identifying-opportunities-for-improvement-5536756772b3) </p>
+Full report is available on [Medium](https://www.medium.com/@favourbadakin/call-center-performance-analysis-identifying-opportunities-for-improvement-5536756772b3)
